@@ -75,14 +75,14 @@ Se quiser rodar você mesmo:
 2. Baixe os arquivos deste repositório.
 3. No terminal, instale o que precisa:
    ```bash
-   pip install -r requisitos.txt
+pip install -r requisitos.txt
 
-   Rode os códigos na ordem:
 
+4. Rode os códigos na ordem:
+   ```bash
    python scripts/extrair.py
-python scripts/02_validar.py
-python scripts/03_transformar.py
-
+   python scripts/02_validar.py
+   python scripts/03_transformar.py
 Pronto! Você vai ter os mesmos dados organizados que eu usei.
 
 Importante: Esse projeto não tem nenhuma ligação oficial com o iFood, nem com o Sebrae ou Procon. Foi feito apenas com o objetivo de estudo e de entender melhor a realidade da nossa cidade, de forma transparente e pública.
